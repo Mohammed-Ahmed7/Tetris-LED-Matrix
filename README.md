@@ -1,5 +1,5 @@
 **EN**
-# Tetris on 16x16 LED Matrix (STM32 Nucleo L152RE)
+# Tetris on 16x16 LED Matrix (STM32 Nucleo L152RE) in C++ (Arduino.h)
 
 **Demo Video**: [Watch on YouTube](https://youtu.be/Kg3kqTApspY?si=pW0XXzGc6VvdZWtp)  
 *(2 minutes gameplay demonstration)*
@@ -22,7 +22,7 @@ The diagram can be found in the [`docs/`](docs) folder.
 - **Game Over** → Score is displayed (max 999)
 
 **DE**
-# Tetris auf 16x16 LED-Matrix (STM32 Nucleo L152RE)
+# Tetris auf 16x16 LED-Matrix (STM32 Nucleo L152RE) in C++ (Arduino.h)
 
 **Demo-Video**: [Auf YouTube ansehen](https://youtu.be/Kg3kqTApspY?si=pW0XXzGc6VvdZWtp)  
 *(2 Minuten Gameplay-Demonstration)*
